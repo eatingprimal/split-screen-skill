@@ -1,0 +1,15 @@
+{
+  "left": "left_take.mov",
+  "right": "right_take.mov",
+  "out": "split_screen.mp4",
+  "seam_x": 540,
+  "feather": 48,
+  "gap": 0.15,
+  "mode": "1x",
+  "lines": [
+    {"side": "R", "win": [7.5, 11.0], "note": "I've got the better one."},
+    {"side": "L", "win": [13.0, 16.5], "note": "No, I've got the better one."},
+    {"side": "L", "win": [19.5, 23.5], "note": "Mine does this."},
+    {"side": "R", "win": [19.5, 23.0], "note": "Well, mine does that and more."}
+  ]
+}
